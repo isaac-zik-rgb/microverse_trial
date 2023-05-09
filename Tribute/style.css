@@ -3,12 +3,14 @@
 }
 body{
     padding: 10px 5px;
+    
 }
 
 #main {
     border-radius: 5px;
     background-color: #eee;
     height: 100%;
+    text-align: center;
 }
 
 #head {
@@ -28,4 +30,10 @@ img{
     height: 100%;
     width: auto;
     right: 30%;
+}
+.info {
+    color: black;
+}
+footer.foot {
+    text-color: red;
 }
