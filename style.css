@@ -3,7 +3,8 @@
 }
 body{
     padding: 10px 5px;
-    background-color: pink;   
+    background-color: #eee;
+    justify-content: center;
 }
 
 #main {
