@@ -3,7 +3,7 @@
 }
 body{
     padding: 10px 5px;
-    
+    background-color: pink;   
 }
 
 #main {
@@ -34,6 +34,6 @@ img{
 .info {
     color: black;
 }
-footer.foot {
-    text-color: red;
+#footer{
+    color: red;
 }
